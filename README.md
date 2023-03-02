@@ -1,2 +1,2 @@
-#  Curse Java Developer Professional
-Домашние работы курса Java Developer Professional от OTUS.
+#  Java Developer Professional Course from OTUS
+Домашние работы курса Java Developer Professional.
